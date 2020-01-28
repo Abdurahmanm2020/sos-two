@@ -1,0 +1,42 @@
+body{
+  background-color: #f6eec7;
+}
+
+
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #b9cced;
+  }
+
+.star{
+   star-color: #192965;
+}
+.submit-button:hover{
+	background-color: gold;
+	}
+
+.submit-button{
+  width: 12%;
+  padding: 0.5% 0;
+  font-size: 1rem;
+  background-color: #f7c5a8;
+  border-radius: 50%
+  
+}
+
+.good:hover{
+	background-color: gold;
+	}
+
+.good{
+  width: 12%;
+  padding: 0.5% 0;
+  font-size: 1rem;
+  background-color: #f7c5a8;
+  border-radiul: 45%;
+}
+
